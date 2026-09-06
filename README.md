@@ -17,20 +17,21 @@ I am a Junior at James Madison University studying Communication with a concentr
 ## 🛠️ Technical & Digital Skills
 
 ### Strategy & Communication
-![PR Strategy](https://img.shields.io/badge/PR%20Strategy-Active-blue?style=for-the-badge)
-![Content Strategy](https://img.shields.io/badge/Content%20Strategy-Advanced-brightgreen?style=for-the-badge)
-![Media Relations](https://img.shields.io/badge/Media%20Relations-Intermediate-orange?style=for-the-badge)
+![Social Media](https://img.shields.io/badge/PR%20Strategy-Active-blue?style=for-the-badge)
+![Canvas Design](https://img.shields.io/badge/Content%20Strategy-Advanced-brightgreen?style=for-the-badge)
+![Microsoft Office](https://img.shields.io/badge/Media%20Relations-Intermediate-orange?style=for-the-badge)
+ 
 
 
 ---
 
-## 🌟 The X-Factor: Intercultural & Media Analysis
+## 🌟 🌟 Beyond the Classroom: Free Time & Interests
 
 ```text
   ______________________________________________________
  /                                                      \
-|   "Communication is about making connections that     |
-|    bridge gaps, build relationships, and inspire."     |
+|  "Life is about creating memories, sharing food,     |
+|    exploring new places, and staying connected."   |
  \______________________________________________________/
 
 Connect With Me
