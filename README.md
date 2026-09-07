@@ -1,14 +1,14 @@
 <div align="center">
 
-# ⚡ Ava Hall
+# 🌟 Ava Hall 🌟
 
-**Public Relations Student | Digital Storyteller | Communication Strategist**
+**Public Relations Student | Digital Studies | Communications Student**
 
 [Email Me](mailto:HALL3AR@dukes.jmu.edu) • [LinkedIn](https://linkedin.com/in/ava-hall09/)
 
 ---
 
-### 💡 "Combining strategic storytelling, digital media tools, and audience insights to drive engaging multi-platform communications."
+### 💡 "Life is about creating memories, being kind, exploring new places, and staying connected." 
 
 </div>
 
