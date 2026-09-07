@@ -6,7 +6,7 @@ I am a Junior at James Madison University studying Communication with a concentr
 ---
 
 ## 💡 About Me
-* 🏫 **School:** James Madison University (Harrisonburg, VA) — *Go Dukes!*
+* 🏫 **School:** James Madison University (Harrisonburg, VA)
 * 📚 **Major:** Communication (Concentration in Public Relations)
 * 🎨 **Minor:** Digital Studies
 * 🎓 **Year:** Junior
