@@ -38,3 +38,6 @@ Connect With Me
 School Email: HALL3AR@dukes.jmu.edu
 Personal Email: ava.hall44@gmail.com
 LinkedIn: linkedin.com/in/ava-hall09/
+
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
