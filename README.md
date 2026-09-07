@@ -1,42 +1,54 @@
-# ⚡ Hi, I'm Ava Hall!
+<div align="center">
 
-### Personal Narrative
-I am a Junior at James Madison University studying Communication with a concentration in Public Relations and a minor in Digital Studies. I combine strategic storytelling, digital media tools, and audience insights to drive engaging multi-platform communications.
+# ⚡ Ava Hall
 
----
+**Public Relations Student | Digital Storyteller | Communication Strategist**
 
-## 💡 About Me
-* 🏫 **School:** James Madison University (Harrisonburg, VA)
-* 📚 **Major:** Communication (Concentration in Public Relations)
-* 🎨 **Minor:** Digital Studies
-* 🎓 **Year:** Junior
-* 🎯 **Future Career Fields:** Human Resources, Corporate Sales, & Public Relations
+[Email Me](mailto:HALL3AR@dukes.jmu.edu) • [LinkedIn](https://linkedin.com/in/ava-hall09/)
 
 ---
 
-## 🛠️ Technical & Digital Skills
+### 💡 "Combining strategic storytelling, digital media tools, and audience insights to drive engaging multi-platform communications."
 
-### Strategy & Communication
-![Social Media](https://img.shields.io/badge/PR%20Strategy-Active-blue?style=for-the-badge)
-![Canvas Design](https://img.shields.io/badge/Content%20Strategy-Advanced-brightgreen?style=for-the-badge)
-![Microsoft Office](https://img.shields.io/badge/Media%20Relations-Intermediate-orange?style=for-the-badge)
- 
+</div>
 
+<br/>
+
+## 📌 About Me
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🏫 <b>University:</b> James Madison University (Harrisonburg, VA)</li>
+        <li>📚 <b>Major:</b> Communication (Concentration in Public Relations)</li>
+        <li>🎨 <b>Minor:</b> Digital Studies</li>
+        <li>🎓 <b>Class Standing:</b> Junior</li>
+        <li>🎯 <b>Career Focus:</b> Public Relations, Corporate Sales, & HR</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="images/screenshot.png" alt="Ava Hall" width="220" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 🌟 Beyond the Classroom: Free Time & Interests
+## 🛠️ Tools & Skills
 
-```text
-  ______________________________________________________
- /                                                      \
-|  "Life is about creating memories, sharing food,     |
-|    exploring new places, and staying connected."   |
- \______________________________________________________/
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social%20Media-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-Connect With Me
-School Email: HALL3AR@dukes.jmu.edu
-Personal Email: ava.hall44@gmail.com
-LinkedIn: linkedin.com/in/ava-hall09/
+---
 
-![James](images/screenshot.png "Screenshot of the app")
+## 💬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ava-hall09/)
+[![School Email](https://img.shields.io/badge/School%20Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HALL3AR@dukes.jmu.edu)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ava.hall44@gmail.com)
+
+</div>
