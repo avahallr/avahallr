@@ -39,4 +39,4 @@ School Email: HALL3AR@dukes.jmu.edu
 Personal Email: ava.hall44@gmail.com
 LinkedIn: linkedin.com/in/ava-hall09/
 
-
+![James](images/screenshot.png "Screenshot of the app")
