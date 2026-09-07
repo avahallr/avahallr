@@ -40,4 +40,3 @@ Personal Email: ava.hall44@gmail.com
 LinkedIn: linkedin.com/in/ava-hall09/
 
 
-![](images/screenshot.png "Screenshot of the app")
