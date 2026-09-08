@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="images/screenshot.png" alt="Ava Hall" width="220" style="border-radius: 10px;">
+     
     </td>
   </tr>
 </table>
@@ -37,9 +37,13 @@
 
 ## 🛠️ Tools & Skills
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Social Media](https://img.shields.io/badge/Social%20Media-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=avahallr&show_icons=true&theme=radial" />
 
 ---
 
