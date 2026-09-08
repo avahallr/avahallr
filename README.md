@@ -52,5 +52,5 @@
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ava.hall44@gmail.com)
 
 </div>
-<img src="./James-Madison.svg" height="150px" />
+<img src="./James-Madison.svg" height="150px"/>
 
