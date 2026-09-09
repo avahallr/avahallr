@@ -53,7 +53,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ava-hall09/)
 [![School Email](https://img.shields.io/badge/School%20Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HALL3AR@dukes.jmu.edu)
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ava.hall44@gmail.com)
 
 </div>
 <img src="./images/James-Madison.svg" height="150px"/>
